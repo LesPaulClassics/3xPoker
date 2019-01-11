@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/test
+END
+DeucesWildGameTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/test/DeucesWildGameTester.java
+END
+GameTesterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/test/GameTesterBase.java
+END
+TestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/test/TestUtil.java
+END
+JokersWildGameTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/test/JokersWildGameTester.java
+END

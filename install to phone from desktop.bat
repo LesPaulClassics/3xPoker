@@ -1,0 +1,1 @@
+"D:\Program Files\android-sdk-windows\tools\adb.exe" install -r 3xPoker.apk

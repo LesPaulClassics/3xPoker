@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/games
+END
+BonusPokerGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/games/BonusPokerGame.java
+END
+DeucesWildGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/games/DeucesWildGame.java
+END
+GameBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/games/GameBase.java
+END
+JokersWildGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/games/JokersWildGame.java
+END
+JacksOrBetterGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/games/JacksOrBetterGame.java
+END

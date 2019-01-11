@@ -1,0 +1,138 @@
+Notes
+
+=Release 1.3=
+
+Todo
+D add additional games: 2's wild, aces wild, etc
+D make a beep sound when a winning hand is dealt
+D fix design of payoff table for new games
+
+D persist game played in preferences
+D add title of game to payout table
+D Call InitDeck() after LoadPreferences()
+D Show status message when changing games
+
+
+- center Payout Title
+- make results frames a little less tall
+- create button pressed, selected, etc. images
+- record different sounds for flipping 1 card, 2 cards, etc.
+- add animations to bet frames
+- add animations to results frames
+
+
+
+
+===History===
+
+=Release 1.1=
+
+Todo
+D Install VSS server to track revisions
+D Update Software Web Page
+D improve icon artwork
+D improve graphics for bet and results frames (make border thicker, beveled)
+- create button pressed, selected, etc. images
+
+- record different sounds for flipping 1 card, 2 cards, etc.
+- add animations to bet frames
+- add animations to results frames
+
+- add additional games: 2's wild, aces wild, etc
+
+=Release 1.0=
+
+Todo
+
+High Priority
+D show bet per hand temporarily on bet and max bet button clicks
+D make a nicer icon image
+D add TSOP logo to Splash screen
+D version software
+- test at different resolutions / platforms
+	D make a test plan
+		T Android 1.5 HVGA
+		T Android 1.6 QVGA
+			= new layout, drawables
+		T Android 1.6 HVGA
+		T Android 1.6 WVGA800 mdpi
+			= new layout
+		T Android 1.6 WVGA800 hdpi
+		T Android 1.6 WVGA854 mdpi
+		T Android 1.6 WVGA854 hdpi
+		T Android 2.1 WQVGA400 ldpi
+		T Android 2.1 WQVGA432 ldpi
+	D create splash and game layouts for small screens(???) or declare not supported
+	= create images for different screen resolutions
+		- hdpi
+			D Splash Background
+			D Card Back
+			D TSOP logo
+			D bet, max bet, deal, draw buttons
+			D bet, credits, win labels
+		- ldpi
+			D bet, max bet, deal, draw buttons
+		- large-mdpi
+			D payout table
+D Create a splash screen
+
+
+D change color of bet label
+D debounce deal / draw button
+D add animation to flipping cards
+D figure out what to do with landscape mode
+D while game is playing, let volume control adjust media volume
+D remove sound and exit buttons
+	D replace with status textview
+D create a nicer card back image
+D add more status messages
+D make phone vibrate on big jackpots
+D make sound & vibrate settings save to preferences
+
+Medium Priority
+D add a menu? what goes into the menu?
+	D Sound On/Off
+	D Restart Game
+	D Exit Game
+	D Payout Table
+	
+D change color of three buttons at bottom
+D persist credits through power cycle
+- research intent filters
+
+Low Priority
+- create button pressed, selected, etc. images
+- record different sounds for flipping 1 card, 2 cards, etc.
+- make draw button look better
+- add animations to bet frames
+- add animations to results frames
+- improve graphics for bet and results frames (make border thicker, beveled)
+- Install VSS server to track revisions
+
+
+Bugs
+D make color of sound icon and vibrate icon consistent
+D change sound & vibrate menu strings to Vibrate On / Vibrate Off depending on state
+D if sound is turned off, and then application restarted, it crashes after splash screen
+D fix "You're Broke. Game over" string
+D change color of "deal" text - hard to see in sunlight
+D when phone first boots up, the splash animation and sound is choppy, should the media be loaded first, then played after a short delay?
+D Enable Sound and Enable Vibrate Menu Items are broken in the latest build!?!
+
+Known Issues
+- animation may be a little choppy if poker is started right after phone is turned on
+- on "longer" aspect ratios (such as 854 vs 800) there will be a space at the top of the 3rd deck
+
+
+
+Screen Testing Notes
+WIN: layout-long
+BET: layout-large-mdpi
+CREDITS: layout-small
+(none): layout-normal
+- Desktop, AVD_1_6_WVGA800_mdpi is using layout-large-mdpi
+- Desktop, AVD_1_6_WVGA800_hdpi is using layout-long
+- Desktop, AVD_1_6_WVGA854_mdpi is using layout-large-mdpi
+- Desktop, AVD_1_6_WVGA854_hdpi is using layout-long
+- Desktop, AVD_1_6_QVGA_ldpi is using layout-small
+- Desktop, AVD_1_6_HVGA_mdpi is using layout-normal

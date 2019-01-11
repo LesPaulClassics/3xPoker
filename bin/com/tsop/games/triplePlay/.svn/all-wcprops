@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tsop/!svn/ver/17/3xPoker/trunk/src/com/tsop/games/triplePlay
+END
+Faces.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/Faces.java
+END
+WinningHand.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/WinningHand.java
+END
+Deck.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/Deck.java
+END
+Suits.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/Suits.java
+END
+WinningHands.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/WinningHands.java
+END
+Calculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/Calculator.java
+END
+Card.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/Card.java
+END
+Hand.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tsop/!svn/ver/17/3xPoker/trunk/src/com/tsop/games/triplePlay/Hand.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/Constants.java
+END
+Games.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tsop/!svn/ver/30/3xPoker/trunk/src/com/tsop/games/triplePlay/Games.java
+END

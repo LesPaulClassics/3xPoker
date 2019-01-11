@@ -1,0 +1,220 @@
+
+<Project LastDefaultTrackNum="4" apptag="SFP" platform="WIN" version="101">
+
+  <ExportPath>D:\temp\Island Party with cards2.wav</ExportPath>
+
+  <SoundTrackVolume>1.0000000000</SoundTrackVolume>
+
+  <LeftEdgeTime>0.0000000000</LeftEdgeTime>
+
+  <AdditionalInfo1></AdditionalInfo1>
+
+  <FileList>
+    <File>
+      <CueID>1914</CueID>
+      <CueName>Entertainer</CueName>
+      <Length>192.1823130000</Length>
+    </File>
+    <File>
+      <CueID>4303</CueID>
+      <CueName>Celebration</CueName>
+      <Length>140.3397733000</Length>
+    </File>
+    <File>
+      <CueID>124</CueID>
+      <CueName>Swing That Thing</CueName>
+      <Length>133.3289796000</Length>
+    </File>
+    <File>
+      <CueID>126</CueID>
+      <CueName>Island Party</CueName>
+      <Length>132.2608617000</Length>
+    </File>
+    <File>
+      <CueID>115</CueID>
+      <CueName>Nightlife</CueName>
+      <Length>116.7034921000</Length>
+    </File>
+    <File>
+      <URL>D:\Users\Stan\Documents\Programming\Java\Programs\TriplePlay\output\deal.wav</URL>
+      <Filename>deal.wav</Filename>
+      <Length>0.5221769000</Length>
+    </File>
+  </FileList>
+
+  <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="" selected="false" solo="false">
+    <usage>Group</usage>
+    <ViewExtras>
+      <ProjectZoom>90</ProjectZoom>
+    </ViewExtras>
+    <SeqTrack class="Edit" enabled="true" locked="false" name="" selected="false" solo="false">
+      <usage>Markers</usage>
+    </SeqTrack>
+    <SeqTrack class="Sequence" enabled="false" hitFile="false" locked="false" name="Nightlife" selected="false" solo="false">
+      <usage>Audio</usage>
+      <ViewExtras>
+        <ExpandTrack>2</ExpandTrack>
+        <ShowVolume>true</ShowVolume>
+      </ViewExtras>
+      <Element enabled="true" name="Crusing" selected="false" type="SmartBlock">
+        <start>0.0000000000</start>
+        <length>3.6268480726</length>
+        <duration>3.6268480726</duration>
+        <flags>48</flags>
+        <SoundFileIndex>5</SoundFileIndex>
+        <VersionIndex>0</VersionIndex>
+      </Element>
+      <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+        <usage>Param</usage>
+        <usage>Volume</usage>
+        <ViewExtras>
+          <ExpandTrack>2</ExpandTrack>
+        </ViewExtras>
+        <Param selected="false">
+          <start>0.0000000000</start>
+          <value>0.6552003026</value>
+        </Param>
+      </SeqTrack>
+    </SeqTrack>
+    <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="deal.wav" selected="false" solo="false">
+      <usage>Audio</usage>
+      <ViewExtras>
+        <ExpandTrack>2</ExpandTrack>
+        <ShowVolume>true</ShowVolume>
+      </ViewExtras>
+      <Element enabled="true" name="deal.wav" selected="false" type="FileBlock">
+        <start>0.3210204082</start>
+        <length>0.5221769000</length>
+        <duration>0.5221769000</duration>
+        <flags>16</flags>
+        <SoundFileIndex>6</SoundFileIndex>
+        <CrossFadeStart>0.2610884500</CrossFadeStart>
+        <CrossFadeLength>0.2610884500</CrossFadeLength>
+        <TrimStart>0.0000000000</TrimStart>
+        <TrimEnd>0.0000000000</TrimEnd>
+      </Element>
+      <Element enabled="true" name="deal.wav" selected="false" type="FileBlock">
+        <start>0.9000000000</start>
+        <length>0.5221769000</length>
+        <duration>0.5221769000</duration>
+        <flags>16</flags>
+        <SoundFileIndex>6</SoundFileIndex>
+        <CrossFadeStart>0.2610884500</CrossFadeStart>
+        <CrossFadeLength>0.2610884500</CrossFadeLength>
+        <TrimStart>0.0000000000</TrimStart>
+        <TrimEnd>0.0000000000</TrimEnd>
+      </Element>
+      <Element enabled="true" name="deal.wav" selected="false" type="FileBlock">
+        <start>1.5000000000</start>
+        <length>0.5221769000</length>
+        <duration>0.5221769000</duration>
+        <flags>16</flags>
+        <SoundFileIndex>6</SoundFileIndex>
+        <CrossFadeStart>0.2610884500</CrossFadeStart>
+        <CrossFadeLength>0.2610884500</CrossFadeLength>
+        <TrimStart>0.0000000000</TrimStart>
+        <TrimEnd>0.0000000000</TrimEnd>
+      </Element>
+      <Element enabled="true" name="deal.wav" selected="false" type="FileBlock">
+        <start>2.1000000000</start>
+        <length>0.5221769000</length>
+        <duration>0.5221769000</duration>
+        <flags>16</flags>
+        <SoundFileIndex>6</SoundFileIndex>
+        <CrossFadeStart>0.2610884500</CrossFadeStart>
+        <CrossFadeLength>0.2610884500</CrossFadeLength>
+        <TrimStart>0.0000000000</TrimStart>
+        <TrimEnd>0.0000000000</TrimEnd>
+      </Element>
+      <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+        <usage>Param</usage>
+        <usage>Volume</usage>
+        <ViewExtras>
+          <ExpandTrack>2</ExpandTrack>
+        </ViewExtras>
+        <Param selected="false">
+          <start>0.0000000000</start>
+          <value>1.3806248903</value>
+        </Param>
+      </SeqTrack>
+    </SeqTrack>
+    <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="deal.wav" selected="false" solo="false">
+      <usage>Audio</usage>
+      <ViewExtras>
+        <ExpandTrack>2</ExpandTrack>
+        <ShowVolume>true</ShowVolume>
+      </ViewExtras>
+      <Element enabled="true" name="deal.wav" selected="false" type="FileBlock">
+        <start>0.6173469388</start>
+        <length>0.5221769000</length>
+        <duration>0.5221769000</duration>
+        <flags>16</flags>
+        <SoundFileIndex>6</SoundFileIndex>
+        <CrossFadeStart>0.2610884500</CrossFadeStart>
+        <CrossFadeLength>0.2610884500</CrossFadeLength>
+        <TrimStart>0.0000000000</TrimStart>
+        <TrimEnd>0.0000000000</TrimEnd>
+      </Element>
+      <Element enabled="true" name="deal.wav" selected="false" type="FileBlock">
+        <start>1.2000000000</start>
+        <length>0.5221769000</length>
+        <duration>0.5221769000</duration>
+        <flags>16</flags>
+        <SoundFileIndex>6</SoundFileIndex>
+        <CrossFadeStart>0.2610884500</CrossFadeStart>
+        <CrossFadeLength>0.2610884500</CrossFadeLength>
+        <TrimStart>0.0000000000</TrimStart>
+        <TrimEnd>0.0000000000</TrimEnd>
+      </Element>
+      <Element enabled="true" name="deal.wav" selected="false" type="FileBlock">
+        <start>1.8000000000</start>
+        <length>0.5221769000</length>
+        <duration>0.5221769000</duration>
+        <flags>16</flags>
+        <SoundFileIndex>6</SoundFileIndex>
+        <CrossFadeStart>0.2610884500</CrossFadeStart>
+        <CrossFadeLength>0.2610884500</CrossFadeLength>
+        <TrimStart>0.0000000000</TrimStart>
+        <TrimEnd>0.0000000000</TrimEnd>
+      </Element>
+      <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+        <usage>Param</usage>
+        <usage>Volume</usage>
+        <ViewExtras>
+          <ExpandTrack>2</ExpandTrack>
+        </ViewExtras>
+        <Param selected="false">
+          <start>0.0000000000</start>
+          <value>1.3806248903</value>
+        </Param>
+      </SeqTrack>
+    </SeqTrack>
+    <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="Island Party" selected="true" solo="false">
+      <usage>Audio</usage>
+      <ViewExtras>
+        <ExpandTrack>2</ExpandTrack>
+        <ShowVolume>true</ShowVolume>
+      </ViewExtras>
+      <Element enabled="true" name="Pool side" selected="false" type="SmartBlock">
+        <start>0.0000000000</start>
+        <length>4.6000907029</length>
+        <duration>4.6000907029</duration>
+        <flags>48</flags>
+        <SoundFileIndex>4</SoundFileIndex>
+        <VersionIndex>0</VersionIndex>
+      </Element>
+      <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+        <usage>Param</usage>
+        <usage>Volume</usage>
+        <ViewExtras>
+          <ExpandTrack>2</ExpandTrack>
+        </ViewExtras>
+        <Param selected="true">
+          <start>0.0000000000</start>
+          <value>0.6552003026</value>
+        </Param>
+      </SeqTrack>
+    </SeqTrack>
+  </SeqTrack>
+
+</Project>
